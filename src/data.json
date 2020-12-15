@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "tag": "EXCLUSIVE ACCESS",
+    "headText": "Unlimited Transactions with zero fees.",
+    "mainText": "Get access to our exclusive Diamond Card that allows you to perform unlimited transactions without charging any fees.",
+    "btnText": "Get Started"
+  },
+  {
+    "id": 2,
+    "tag": "EASY SETUP",
+    "headText": "Super fast and simple onboarding process.",
+    "mainText": "Get everything setup and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
+    "btnText": "Start Now"
+  },
+  {
+    "id": 3,
+    "tag": "100% SECURE",
+    "headText": "Stay protected 24/7 anywhere anytime.",
+    "mainText": "We have you covered no matter where you are located. Over 100 locations worldwide to ensure you have access anytime.",
+    "btnText": "Learn More"
+  }
+]
